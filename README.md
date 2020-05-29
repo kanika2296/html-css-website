@@ -1,2 +1,2 @@
-# html-css-website
-Simple website using BootStrap
+Html CSS Website
+Simple website using BootStrap , build for college assignment
